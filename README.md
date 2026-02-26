@@ -21,3 +21,17 @@ Pandas
 - Add visualization dashboards
 - Deploy as Streamlit app
 - Connect to SQL database
+## Streamlit Dashboard
+
+This project also includes an interactive dashboard built using Streamlit.
+
+Features
+- Real-time KPI metrics
+- Sales by category visualization
+- Sales by region analysis
+- Profit insights
+
+Run locally:
+
+pip install -r requirements.txt  
+streamlit run app.py
