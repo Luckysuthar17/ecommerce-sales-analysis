@@ -2,6 +2,10 @@
 
 Advanced data analysis project simulating real-world business KPIs.
 
+# Live App
+
+https://ecommerce-sales-analysis-nmpvcybkxnuapfskaqnrb2.streamlit.app
+
 ## Objectives
 - Calculate total sales and profit
 - Compute profit margins
